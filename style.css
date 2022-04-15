@@ -153,7 +153,7 @@ table.preparation td.etape{
     padding-bottom: 0.7rem; 
 }
 
-/* styles pour ordinateur */
+/* desktop only */
 @media only screen and (min-width: 768px){
     div.card{
         min-width: 350px;   
